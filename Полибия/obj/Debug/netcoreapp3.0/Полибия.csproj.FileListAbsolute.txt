@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\Полибия\obj\Debug\netcoreapp3.0\Полибия.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Полибия\obj\Debug\netcoreapp3.0\Полибия.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Полибия\obj\Debug\netcoreapp3.0\Полибия.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Полибия\bin\Debug\netcoreapp3.0\Полибия.exe
+C:\Users\Hp\source\repos\Полибия\bin\Debug\netcoreapp3.0\Полибия.deps.json
+C:\Users\Hp\source\repos\Полибия\bin\Debug\netcoreapp3.0\Полибия.runtimeconfig.json
+C:\Users\Hp\source\repos\Полибия\bin\Debug\netcoreapp3.0\Полибия.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\Полибия\bin\Debug\netcoreapp3.0\Полибия.dll
+C:\Users\Hp\source\repos\Полибия\bin\Debug\netcoreapp3.0\Полибия.pdb
+C:\Users\Hp\source\repos\Полибия\obj\Debug\netcoreapp3.0\Полибия.dll
+C:\Users\Hp\source\repos\Полибия\obj\Debug\netcoreapp3.0\Полибия.pdb
